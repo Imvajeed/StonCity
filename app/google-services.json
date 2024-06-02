@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "617238622638",
+    "project_id": "stonecityi",
+    "storage_bucket": "stonecityi.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:617238622638:android:aaf238a20dda60b7a0583f",
+        "android_client_info": {
+          "package_name": "com.example.stonecityi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "617238622638-3lt81js9va6qe289opt666en6h0v1ddh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.stonecityi",
+            "certificate_hash": "26e02e8262dc92c090e61b9024df5e819cbfdcf2"
+          }
+        },
+        {
+          "client_id": "617238622638-nr812oisv41ltj1gkgqtqjqllfvi9rnt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAEq1-tLeFXsCp8RjPxBlWF2sDL_AQZSU0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "617238622638-nr812oisv41ltj1gkgqtqjqllfvi9rnt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

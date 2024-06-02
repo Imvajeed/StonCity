@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">StoneCityI</string>
+    <string name="default_web_client_id">617238622638-3lt81js9va6qe289opt666en6h0v1ddh.apps.googleusercontent.com</string>
+    <string name="nav_open">Open</string>
+    <string name="nav_close">Close</string>
+</resources>
